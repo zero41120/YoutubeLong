@@ -9,7 +9,7 @@ This is a userscript designed to redirect YouTube short URLs to their equivalent
 
 ## How to Use
 
-1. Install a userscript manager like Tampermonkey or Greasemonkey in your browser.
+1. Install a userscript manager like [Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) or [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) in your browser.
 2. Click on the "Raw" link of the `youtube_long.userscript.js` file or [download it](https://github.com/zero41120/YoutubeLong/raw/main/youtube_long.userscript.js). 
 3. If your userscript manager is correctly installed, it should prompt you to install the script.
 
